@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
-    printf("Result: %d\n", 2 + 3);
+int main(void)
+{
+    printf("Sum result: %d\n", 2 + 3);
     return 0;
 }
